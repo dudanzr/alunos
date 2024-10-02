@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1727826223 source:c:\users\computer\ies\ies\iest2\alunomain.c
+	<stdio.h>
+
+1727825990 source:c:\users\computer\ies\ies\iest2\controlealuno.c
+	<stdio.h>
+
+1727826351 source:c:\users\computer\ies\ies\iest2\persistealuno.c
+	<stdio.h>
+	<stdlib.h>
+
+1727826543 source:c:\users\computer\ies\ies\iest2\interfacealuno.c
+	<stdio.h>
+	<ctype.h>
+
